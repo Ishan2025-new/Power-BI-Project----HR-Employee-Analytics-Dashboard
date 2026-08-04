@@ -42,7 +42,7 @@ Shows executive KPI cards and department-level summaries, including:
 * Total employees by age group
 * Total employees by salary band
 
-!\[HR Analytics Dashboard](Screenshot 1.png)
+![HR Analytics Dashboard](Screenshot 1.png)
 
 ### Employee Details
 
@@ -56,7 +56,7 @@ Provides employee-level records and job role summaries, including:
 * Total employees by job satisfaction
 * Total employees by company tenure group
 
-!\[Employee Details](Screenshot 2.png)
+![Employee Details](Screenshot 2.png)
 
 ### Job Role Analysis
 
@@ -69,7 +69,7 @@ Highlights job-role based totals and attrition distribution, including:
 * Job satisfaction distribution
 * Overtime distribution
 
-!\[Job Role Analysis](Screenshot 3.png)
+![Job Role Analysis](Screenshot 3.png)
 
 ## Files Included
 
