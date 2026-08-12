@@ -42,9 +42,13 @@ Shows executive KPI cards and department-level summaries, including:
 * Total employees by age group
 * Total employees by salary band
 
-![HR Analytics Dashboard](Screenshot%201-1.png.jpeg)
-
 ![Dashboard Snapshot](Screenshot%201.png)
+
+Additional visuals:
+
+![Employee Details](Screenshot%202.png)
+
+![Job Role Analysis](Screenshot%203.png)
 
 ### Employee Details
 
