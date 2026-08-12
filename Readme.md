@@ -44,12 +44,6 @@ Shows executive KPI cards and department-level summaries, including:
 
 ![Dashboard Snapshot](Screenshot%201.png)
 
-Additional visuals:
-
-![Employee Details](Screenshot%202.png)
-
-![Job Role Analysis](Screenshot%203.png)
-
 ### Employee Details
 
 Provides employee-level records and job role summaries, including:
