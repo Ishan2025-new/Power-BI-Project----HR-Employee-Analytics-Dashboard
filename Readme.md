@@ -19,7 +19,7 @@ The dashboard is designed for HR managers, business analysts, and decision maker
 
 ## Main Insights
 
-* Research \& Development has the highest number of employees and the highest attrition count.
+* Research & Development has the highest number of employees and the highest attrition count.
 * Laboratory Technicians, Sales Executives, and Research Scientists show the highest attrition by job role.
 * Overtime is an important factor for attrition comparison, with the dashboard separating employees by overtime status.
 * Salary, job satisfaction, tenure, age group, and department filters help explore workforce patterns in more detail.
@@ -42,7 +42,7 @@ Shows executive KPI cards and department-level summaries, including:
 * Total employees by age group
 * Total employees by salary band
 
-![HR Analytics Dashboard](Screenshot%201-1.png.jpeg)
+![Dashboard Snapshot](Screenshot%201.png)
 
 ### Employee Details
 
@@ -75,11 +75,14 @@ Highlights job-role based totals and attrition distribution, including:
 
 |File|Description|
 |-|-|
-|`HR Employee Analytics by IBM.pbix`|Main Power BI report file|
-|`WA\_Fn-UseC\_-HR-Employee-Attrition.csv`|Source HR employee attrition dataset|
-|`IBM HR Employee Analytics Dashboard Presentation.pptx`|Presentation deck for the dashboard project|
+|`HR Employee Analytics by CoE.pbix`|Primary Power BI report file|
+|`Power bi project COE 30.07.2026.pbix`|Alternate Power BI report file for the project|
+|`WA_Fn-UseC_-HR-Employee-Attrition.csv`|Source HR employee attrition dataset|
+|`HR Employee Analytics Dashboard Presentation.pptx`|Project presentation deck|
+|`HR-Employee-Analytics-Dashboard.pptx`|Additional presentation file|
 |`HR Employee Analytics.png`|Project title/banner image|
-|`Screenshot 1.png`|Dashboard overview page screenshot|
+|`Screenshot 1-1.png.jpeg`|Dashboard overview page screenshot|
+|`Screenshot 1.png`|Additional dashboard screenshot|
 |`Screenshot 2.png`|Employee details page screenshot|
 |`Screenshot 3.png`|Job role analysis page screenshot|
 
@@ -104,8 +107,8 @@ The dataset contains employee demographic, compensation, job, performance, satis
 
 ## How to Use
 
-1. Open `HR Employee Analytics by IBM.pbix` in Microsoft Power BI Desktop.
-2. Confirm the CSV source path points to `WA\_Fn-UseC\_-HR-Employee-Attrition.csv`.
+1. Open `HR Employee Analytics by CoE.pbix` or `Power bi project COE 30.07.2026.pbix` in Microsoft Power BI Desktop.
+2. Confirm the CSV source path points to `WA_Fn-UseC_-HR-Employee-Attrition.csv`.
 3. Refresh the data model if needed.
 4. Use slicers such as Department and Employee Number to explore employee attrition patterns.
 5. Review the screenshots or presentation deck for a quick project walkthrough.
@@ -117,7 +120,7 @@ The dataset contains employee demographic, compensation, job, performance, satis
 * Include trend analysis if future time-based HR data becomes available.
 * Add calculated measures for attrition rate by department, job role, overtime, and tenure group.
 
-## Author
+## Authors
 
-Rudrashis Chowdhury, Gourab Mondal and Tuhin Roy
+Rudrashis Chowdhury, Gourab Mondal, and Tuhin Roy
 
