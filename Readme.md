@@ -44,6 +44,8 @@ Shows executive KPI cards and department-level summaries, including:
 
 ![HR Analytics Dashboard](Screenshot%201-1.png.jpeg)
 
+![Dashboard Snapshot](Screenshot%201.png)
+
 ### Employee Details
 
 Provides employee-level records and job role summaries, including:
