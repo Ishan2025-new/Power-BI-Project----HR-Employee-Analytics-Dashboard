@@ -78,8 +78,7 @@ Highlights job-role based totals and attrition distribution, including:
 |`HR Employee Analytics by CoE.pbix`|Primary Power BI report file|
 |`Power bi project COE 30.07.2026.pbix`|Alternate Power BI report file for the project|
 |`WA_Fn-UseC_-HR-Employee-Attrition.csv`|Source HR employee attrition dataset|
-|`HR Employee Analytics Dashboard Presentation.pptx`|Project presentation deck|
-|`HR-Employee-Analytics-Dashboard.pptx`|Additional presentation file|
+|`HR-Employee-Analytics-Dashboard.pptx`|Project presentation deck|
 |`HR Employee Analytics.png`|Project title/banner image|
 |`Screenshot 1-1.png.jpeg`|Dashboard overview page screenshot|
 |`Screenshot 1.png`|Additional dashboard screenshot|
